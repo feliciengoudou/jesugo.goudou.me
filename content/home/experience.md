@@ -41,9 +41,10 @@ experience:
     description: |2-
         Courses include:
 
-        * Macroeconomics Theory I & II (Fall 2018 ; Winter 2018, 2019 & 2020)
-        * Introduction to Macroeconomics (Fall 2019)
+        * Macroeconomics Theory I & II (Fall 2018 ; Winter 2018, 2019, 2020 & 2022)
+        * Introduction to Macroeconomics (Fall 2019, 2021)
         * Principles of Economics  (Fall 2020)
+        * Econometrics I (Winter 2022)
         * Inequality and Growth (winter 2018)
         * Quantitative Methods (Fall 2017, graduate Ph.D. level)
 
