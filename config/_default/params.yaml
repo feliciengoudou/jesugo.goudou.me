@@ -23,7 +23,7 @@ marketing:
     description: ''
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-242990801-1'
     baidu_tongji: ''
   verification:
     google: ''
