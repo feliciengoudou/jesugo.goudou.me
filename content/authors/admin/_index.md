@@ -89,7 +89,8 @@ highlight_name: true
 
 \
 \
-Welcome!.
+Welcome!
+\
 I am a Ph.D.  candidate in Economics at the [Université de Montreal](https://sceco.umontreal.ca/accueil/). My research interest is in the field of macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
 \
 \
