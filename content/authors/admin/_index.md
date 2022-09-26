@@ -10,7 +10,7 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: "----------------------------"
+  - name: "Ph.D. candidate in Economics"
   - name: "Contact:"
   - name: Université de Montreal
     url:  https://www.umontreal.ca/en/
