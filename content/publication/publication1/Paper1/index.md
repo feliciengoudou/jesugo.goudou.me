@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Paper1/example'
+url_pdf: 'example'
 url_code: ''
 url_dataset: ''
 url_poster: ''
