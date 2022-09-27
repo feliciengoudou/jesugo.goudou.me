@@ -6,6 +6,7 @@
 title: Felicien Goudou # Website name
 baseURL: 'https://www.jesugogoudou.me' # Website URL
 
+
 ############################
 ## LANGUAGE
 ############################
@@ -69,4 +70,7 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
+  #_merge: deep
+  changefreq: always
+  priority: 0.8
+title: News
