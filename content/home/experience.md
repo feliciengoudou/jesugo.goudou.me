@@ -29,7 +29,7 @@ experience:
     location: Montreal
     date_start: '2018-01-01'
     date_end: '2021-12-31'
-    description: Taught Quantitative Economics II (Undergraduate. Winter 2018, 2020 & 2021 ; Fall 2019 & 2020)
+    description: Taught Quantitative Economics II (Undergraduate. Winter 18, 20 & 21 ; Fall 19 & 20)
 
   - title: TEACHING ASSISTANT
     company: Université de Montreal
@@ -41,12 +41,12 @@ experience:
     description: |2-
         Courses include:
 
-        * Macroeconomics Theory I & II (Fall 2018 ; Winter 2018, 2019, 2020 & 2022)
-        * Introduction to Macroeconomics (Fall 2019, 2021)
-        * Principles of Economics  (Fall 2020)
-        * Econometrics I (Winter 2022)
-        * Inequality and Growth (winter 2018)
-        * Quantitative Methods (Fall 2017, graduate Ph.D. level)
+        * Macroeconomics Theory I & II (Fall 18 ; Winter 18, 19, 20 & 22)
+        * Introduction to Macroeconomics (Fall 19, 21)
+        * Principles of Economics  (Fall 20)
+        * Econometrics I (Winter 22)
+        * Inequality and Growth (Winter 18)
+        * Quantitative Methods (Fall 17, graduate Ph.D. level)
 
 
 design:
