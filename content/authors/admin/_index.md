@@ -11,7 +11,7 @@ role:
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: "Ph.D. candidate in Economics"
-  - name: "---"
+  - name: "Email: felicien.goudou@umontreal.ca"
   - name: Université de Montreal
     url:  https://www.umontreal.ca/en/
   - name: Department of Economics
