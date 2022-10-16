@@ -20,7 +20,7 @@ main:
     url: '#Research'
     weight: 20
   - name: CV
-    url: uploads/CV_Jesugo_G.pdf
+    url: uploads/CV_Felicien_G.pdf
     weight: 40
   - name: Teaching
     url: '#experience'
