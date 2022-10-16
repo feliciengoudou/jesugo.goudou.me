@@ -97,4 +97,4 @@ I am a Ph.D.  candidate in Economics at [Université de Montreal](https://sceco.
 I am on the 2022/2023 job market and will be available for interviews at the American Economic Association (AEA/ASSA), the European Job Market (EJME), and the Canadian Economics Employment Exchange (CEEE) annual meetings.
 \
 \
-My CV is available {{< staticref "uploads/CV_FG.pdf" "newtab" >}}here{{< /staticref >}}.
+My CV is available {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}here{{< /staticref >}}.
