@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: Immo Schott
-    url: "https://sites.google.com/site/immoschott/"
+    name_url: 'https://sites.google.com/site/immoschott/'
     #icon: r-project
     icon_pack: fab
   - name: Baris Kaymak
