@@ -18,12 +18,12 @@ subtitle:
 #[[feature]]
   #name: Immo Schott
   #url: "https://sites.google.com/site/immoschott/"
-  [[feature]]
-    icon = "camera-retro"
-    icon_pack = "fas"
-    name = "Photography"
-    description = "10%"
-    url = "https://www.your-favorite-photo-app.com/"
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
+  url = "https://www.your-favorite-photo-app.com/"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
