@@ -36,8 +36,8 @@ feature:
     #icon: camera-retro
     #
     #icon_pack: fas
-  - name: barkaymak@gmail.com
-  - name: ja.galindo.da.fonseca@gmail.com
+- name: barkaymak@gmail.com
+- name: ja.galindo.da.fonseca@gmail.com
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
