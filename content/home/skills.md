@@ -19,18 +19,18 @@ feature:
   - description: Associate Professor of Economics
     #icon: r-project
     icon_pack: fab
-    name: Immo Schott
-    name: immoschott@gmail.com
-  - description: 100%
+  - name: Immo Schott
+  - name: immoschott@gmail.com
+  - description: Senior Research Economist
     #icon: chart-line
     icon_pack: fas
-    name: Baris Kaymak
-    name: barkaymak@gmail.com
-  - description: 10%
+  - name: Baris Kaymak
+  - name: barkaymak@gmail.com
+  - description: Assistant Professor of Economics
     #icon: camera-retro
     icon_pack: fas
-    name: Joao Galindo da Fonseca
-    name: ja.galindo.da.fonseca@gmail.com
+  - name: Joao Galindo da Fonseca
+  - name: ja.galindo.da.fonseca@gmail.com
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
