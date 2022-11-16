@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -15,8 +15,8 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - icon: Immo Schott
+organizations:
+  - name: CV
     url: "https://sites.google.com/site/immoschott/"
     #icon: r-project
     #icon_pack: fab
