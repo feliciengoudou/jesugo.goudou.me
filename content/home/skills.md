@@ -15,9 +15,9 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-organizations:
+feature:
   - name: Immo Schott
-    link_url: "https://sites.google.com/site/immoschott/"
+    highlight_name: "https://sites.google.com/site/immoschott/"
     #icon: r-project
     icon_pack: fab
   - name: Baris Kaymak
