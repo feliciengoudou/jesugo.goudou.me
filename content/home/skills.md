@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: Immo Schott
-    url: https://sites.google.com/site/immoschott/
+    link: https://sites.google.com/site/immoschott/
     #icon: r-project
     #icon_pack: fab
   - name: Baris Kaymak
-    url: https://www.clevelandfed.org/research/economists/kaymak-baris
+    link: https://www.clevelandfed.org/research/economists/kaymak-baris
   - name: Joa Galindo da Fonseca
-    url: https://sites.google.com/site/joaoagdafonseca/home
+    link: https://sites.google.com/site/joaoagdafonseca/home
   - name: Associate Professor of Economics
     #icon: chart-line
     #icon_pack: fas
