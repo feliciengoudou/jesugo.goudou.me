@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 100
 
 title: References
 subtitle:
@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - name: Immo Schott
-    link_url: 'https://sites.google.com/site/immoschott/'
+    link_url= "https://sites.google.com/site/immoschott/"
     #icon: r-project
     icon_pack: fab
   - name: Baris Kaymak
