@@ -20,14 +20,17 @@ feature:
     #icon: r-project
     icon_pack: fab
     name: Immo Schott
+    url: immoschott@gmail.com
   - description: 100%
     #icon: chart-line
     icon_pack: fas
     name: Baris Kaymak
+    url: barkaymak@gmail.com
   - description: 10%
     #icon: camera-retro
     icon_pack: fas
     name: Joao Galindo da Fonseca
+    url: ja.galindo.da.fonseca@gmail.com 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
