@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: features
 
 # This file represents a page section.
 headless: true
@@ -16,6 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+-
   - name: Immo Schott
     url: "https://sites.google.com/site/immoschott/"
     #icon: r-project
