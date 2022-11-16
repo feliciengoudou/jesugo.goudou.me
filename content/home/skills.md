@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: References
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
+    #icon: r-project
     icon_pack: fab
-    name: R
+    name: Immo Schott
   - description: 100%
-    icon: chart-line
+    #icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Baris Kaymak
   - description: 10%
-    icon: camera-retro
+    #icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Joao Galindo da Fonseca
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
