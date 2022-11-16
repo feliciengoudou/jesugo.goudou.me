@@ -16,8 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: Immo Schott
-    name_url: 'https://sites.google.com/site/immoschott/'
+    name: Immo Schott
+    url: 'https://sites.google.com/site/immoschott/'
     #icon: r-project
     icon_pack: fab
   - name: Baris Kaymak
