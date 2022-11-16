@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: CV
+  - name: Immo Schott
     url: "https://sites.google.com/site/immoschott/"
     #icon: r-project
     #icon_pack: fab
