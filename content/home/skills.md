@@ -16,21 +16,21 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - name: Associate Professor of Economics
+  - name: Immo Schott
     #icon: r-project
     #icon_pack: fab
-  - name: Immo Schott
-  - name: immoschott@gmail.com
-  - name: Senior Research Economist
+  - name: Baris Kaymak
+  - name:
+  - name: Associate Professor of Economics
     #icon: chart-line
     #icon_pack: fas
-  - name: Baris Kaymak
-  - name: barkaymak@gmail.com
+  - name: Senior Research Economist
   - name: Assistant Professor of Economics
+  - name: immoschott@gmail.com
     #icon: camera-retro
     #
     #icon_pack: fas
-  - name: Joao Galindo da Fonseca
+  - name: barkaymak@gmail.com
   - name: ja.galindo.da.fonseca@gmail.com
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
