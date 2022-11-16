@@ -15,15 +15,29 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#[[feature]]
-  #name: Immo Schott
-  #url: "https://sites.google.com/site/immoschott/"
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  url = "https://www.your-favorite-photo-app.com/"
+feature:
+  - name: Immo Schott
+    url: "https://sites.google.com/site/immoschott/"
+    #icon: r-project
+    #icon_pack: fab
+  - name: Baris Kaymak
+    link: "https://www.clevelandfed.org/research/economists/kaymak-baris"
+  - name: Joao Galindo da Fonseca
+    link: "https://sites.google.com/site/joaoagdafonseca/home"
+  - name: Associate Professor of Economics
+    #icon: chart-line
+    #icon_pack: fas
+  - name: Senior Research Economist
+  - name: Assistant Professor of Economics
+  - name: Université de Montreal
+  - name: Federal Reserve Bank of Cleveland
+  - name: Université de Montreal
+  - name: immoschott@gmail.com
+    #icon: camera-retro
+    #
+    #icon_pack: fas
+  - name: barkaymak@gmail.com
+  - name: ja.galindo.da.fonseca@gmail.com
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
