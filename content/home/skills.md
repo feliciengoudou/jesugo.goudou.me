@@ -22,7 +22,7 @@ feature:
     #icon_pack: fab
   - name: Baris Kaymak
     link: https://www.clevelandfed.org/research/economists/kaymak-baris
-  - name: Joa Galindo da Fonseca
+  - name: Joao Galindo da Fonseca
     link: https://sites.google.com/site/joaoagdafonseca/home
   - name: Associate Professor of Economics
     #icon: chart-line
