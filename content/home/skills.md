@@ -15,11 +15,11 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-features:
+feature:
   - name: Immo Schott
     name_url: "https://sites.google.com/site/immoschott/"
     #icon: r-project
-    icon_pack: fab
+    #icon_pack: fab
   - name: Baris Kaymak
     link: "https://www.clevelandfed.org/research/economists/kaymak-baris"
   - name: Joao Galindo da Fonseca
