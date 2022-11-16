@@ -25,7 +25,7 @@ main:
   - name: Teaching
     url: '#experience'
     weight: 30
-  - name: Research
+  - name: References
     url: '#References'
     weight: 50
   #- name: Contact
