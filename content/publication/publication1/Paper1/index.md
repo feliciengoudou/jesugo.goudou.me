@@ -23,10 +23,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+#publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revise & resubmit** at ***Labour Economics***"
+publication: <h1 style = "color:blue;"> R R at Labour Economics </h1>
 #publication_short:  *Revise*
 
 abstract: This paper studies the labor market effects of Non-Compete Agreements (NCAs) that constrain employee mobility, in a search model featuring random hiring and endogenous separation. Non-compete clauses limit workers' job opportunities; thus, an unemployed worker who is bound by NCAs has a lower job finding rate relative to the unconstrained worker. Moreover, since NCAs encourage firm investment through the lengthening of job tenure, firms prefer to include them and are incentivized to create vacancies for jobs that have a higher probability of including NCAs in their contracts. Hence, the average job finding rate increases with the incidence of NCAs through increased labor market tightness. Conversely, a higher incidence of NCAs also increases the proportion of job seekers that are constrained by NCAs, making job vacancies more difficult to fill. Therefore, the average job finding rate drops through decreasing labor market tightness. Calibrated to the US economy, the model implies a decreasing job finding rate with the incidence of NCAs, consistent with the evidence found in US data. This fact appears as a trade-off for a lower job separation rate and higher firm investment in worker human capital implied by a higher incidence of NCAs. In equilibrium, the model predicts a higher unemployment rate associated with a higher incidence of enforceable NCAs in the economy. In addition, the paper shows that a restriction on the duration of NCAs is welfare improving.
