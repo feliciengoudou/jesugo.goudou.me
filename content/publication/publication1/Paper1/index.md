@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'uploads/JMP_Felicien_G.pdf'
-url_code: ''
+url_code: 'bhjjh'
 url_dataset: ''
 url_poster: ''
 url_project: ''
