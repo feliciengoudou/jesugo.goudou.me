@@ -6,7 +6,7 @@ title: 'Life Cycle Worker Flows in a Dual Labor Market'
 # and it will be replaced with their full name and linked to their profile.
 authors:
 #["With Jonathan Créchet"]
-- <a href = "https://sites.google.com/view/jonathancrechet"> Jonathan Crechet </a>
+- <p><a href = "https://sites.google.com/view/jonathancrechet"> Jonathan Crechet </a></p>
 
 # Author notes (optional)
 #author_notes:
