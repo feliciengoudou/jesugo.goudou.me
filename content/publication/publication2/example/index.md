@@ -25,7 +25,7 @@ publishDate: '2017-01-01T00:00:00Z'
 #publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication:  **New draft coming soon**
+publication:  New draft coming soon
 #publication_short: In *ICW*
 
 abstract: This paper considers labor-market duality between temporary and permanent employment contracts as a source of life-cycle heterogeneity in worker flows. Using panel data from the French Continuous Employment Survey, we estimate that the transition probabilities from unemployment to temporary (UT) and permanent (UP) employment have a declining profile over the life cycle for high-education workers but a flat profile for low-education workers. The same is observed for the transition probability from temporary to permanent employment (TP). We show that a search-and-matching model with heterogeneous workers and jobs, information frictions and Bayesian learning about worker ability, and match-specific unemployment risk can replicate these facts. Bayesian learning is relatively more prevalent for high-education workers, whereas unemployment-risk heterogeneity is the key driver of life-cycle variation in worker flows for the low-educated. We assess the implications of the model for the effect of temporary contracts and firing costs on employment, mismatch and aggregate productivity, and the life-cycle dynamics of earnings.
