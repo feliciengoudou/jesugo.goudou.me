@@ -6,7 +6,7 @@ title: 'The Employment Effects of Non-compete Contracts: Job Retention versus Jo
 # and it will be replaced with their full name and linked to their profile.
 authors:
   #-
-  #- Robert Ford
+  - Felicien Goudou
 
 # Author notes (optional)
 #author_notes:
