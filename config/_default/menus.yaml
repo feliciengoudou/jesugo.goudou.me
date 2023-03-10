@@ -41,6 +41,6 @@ main:
   - name: Papers
     url: 'home1/#Working Papers'
     weight: 60
-  - name: Papers
+  - name: Teachingg
     url: 'teaching/#experience'
     weight: 80
