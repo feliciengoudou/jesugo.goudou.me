@@ -39,5 +39,5 @@ main:
 #    weight: 70
 
   - name: Papers
-    url: 'hhome/#Researchhh'
+    url: 'home1/#Researchhh'
     weight: 60
