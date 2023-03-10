@@ -25,9 +25,9 @@ main:
   - name: Teaching
     url: 'home/#experience'
     weight: 30
-  - name: References
-    url: 'home/#skills'
-    weight: 50
+  #- name: References
+    #url: 'home/#skills'
+    #weight: 50
   #- name: Contact
   #  url: '#contact'
   #  weight: 30
