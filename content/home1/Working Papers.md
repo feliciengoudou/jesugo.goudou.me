@@ -9,7 +9,7 @@ widget: pages
 # Order that this section appears on the page.
 weight: 60
 
-title: Researchhh
+title: Working Papers
 subtitle: ''
 
 content:
