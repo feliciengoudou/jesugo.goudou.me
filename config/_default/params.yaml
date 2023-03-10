@@ -10,7 +10,7 @@ appearance:
   theme_day: minimal
   theme_night: mr robot
   #day_night: false
-  font: minimal
+  font: earth
   font_size: M
 
 # SEO
