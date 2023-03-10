@@ -17,16 +17,16 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Research
-    url: 'home/Research'
+    url: 'home/#Research'
     weight: 20
   - name: CV
     url: uploads/CV_Felicien_G.pdf
     weight: 40
   - name: Teaching
-    url: 'hom/experience'
+    url: 'home/#experience'
     weight: 30
   - name: References
-    url: 'home/skills'
+    url: 'home/#skills'
     weight: 50
   #- name: Contact
   #  url: '#contact'
@@ -37,7 +37,7 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
-[[main]]:
+main:
   - name: Papers
-    url: 'hhome/Researchhh'
+    url: 'hhome/#Researchhh'
     weight: 10
