@@ -5,14 +5,14 @@ title: 'Climate Policy, Financial Frictions and Aggregate Productivity'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  #- Felicien Goudou
+  - Felicien Goudou
 
 # Author notes (optional)
 #author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2022-08-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
