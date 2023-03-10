@@ -37,7 +37,7 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
-[[main]]:
+
   - name: Papers
     url: 'hhome/#Researchhh'
     weight: 10
