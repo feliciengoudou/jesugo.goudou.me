@@ -21,7 +21,7 @@ main:
     #weight: 20
   - name: CV
     url: uploads/CV_Felicien_G.pdf
-    weight: 40
+    weight: 90
   #- name: Teaching
     #url: 'home/#experience'
     #weight: 30
