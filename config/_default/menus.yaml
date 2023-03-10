@@ -22,9 +22,9 @@ main:
   - name: CV
     url: uploads/CV_Felicien_G.pdf
     weight: 40
-  - name: Teaching
-    url: 'home/#experience'
-    weight: 30
+  #- name: Teaching
+    #url: 'home/#experience'
+    #weight: 30
   #- name: References
     #url: 'home/#skills'
     #weight: 50
@@ -41,6 +41,6 @@ main:
   - name: Papers
     url: 'home1/#Working Papers'
     weight: 60
-  - name: Teachingg
+  - name: Teaching
     url: 'teaching/#experience'
     weight: 80

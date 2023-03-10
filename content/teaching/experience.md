@@ -29,7 +29,7 @@ experience:
     location: Montreal
     date_start: '2018-01-01'
     date_end: '2021-12-31'
-    description: Taught Quantitative Economics II (Undergraduate. Winter 18, 20 & 21 ; Fall 19 & 20)
+    description: Quantitative Economics II (Undergraduate. Winter 18, 20 & 21 ; Fall 19 & 20)
 
   - title: TEACHING ASSISTANT
     company: Université de Montreal
@@ -37,7 +37,7 @@ experience:
     #company_logo: icon
     location: Montreal
     date_start: '2017-01-01'
-    date_end: ''
+    date_end: '2023-08-01'
     description: |2-
         Courses include:
 
