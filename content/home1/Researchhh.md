@@ -32,10 +32,14 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: Card
+  view: Compact
   columns: '2'
 
-
+  # View.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation
 ---
 
 <!-- {{% callout note %}}
