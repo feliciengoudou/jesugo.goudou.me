@@ -44,9 +44,9 @@ experience:
         * Macroeconomics Theory I & II (Fall 18 ; Winter 18, 19, 20 & 22)
         * Introduction to Macroeconomics (Fall 19, 21)
         * Principles of Economics  (Fall 20)
-        * Econometrics I (Winter 22)
+        * Econometrics I (Winter 22 & 23)
         * Inequality and Growth (Winter 18)
-        * Quantitative Methods (Fall 17, graduate Ph.D. level)
+        * Quantitative Methods (Fall 17, Ph.D. level)
 
 
 design:
