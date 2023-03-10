@@ -33,7 +33,7 @@ content:
 design:
   # Choose a view for the listings:
   view: Card
-  columns: '1'
+  columns: '2'
 
 
 ---
