@@ -6,7 +6,8 @@ title: 'Life Cycle Worker Flows in a Dual Labor Market'
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Felicien Goudou
-- Jonathan Créchet
+- name: Jonathan Créchet
+  url:  https://sceco.umontreal.ca/accueil/
 
 # Author notes (optional)
 #author_notes:
