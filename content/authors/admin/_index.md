@@ -10,14 +10,14 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: "Ph.D. candidate in Economics"
-  - name: "---"
+  #- name: "Ph.D. candidate in Economics"
+  #- name: "---"
   - name: Université de Montreal
     url:  https://www.umontreal.ca/en/
   - name: Department of Economics
     url:  https://sceco.umontreal.ca/accueil/
-  - name: 3150 Jean-Brillant, QC, H3T 1N8
-  - name: felicien.goudou@umontreal.ca
+  #- name: 3150 Jean-Brillant, QC, H3T 1N8
+  #- name: felicien.goudou@umontreal.ca
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
