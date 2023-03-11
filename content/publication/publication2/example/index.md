@@ -5,10 +5,8 @@ title: 'Life Cycle Worker Flows in a Dual Labor Market'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- name: John Doe
-  url: "https://johndoe.com"
-- name: Jane Smith
-  url: "https://janesmith.com"
+- Felicien Goudou
+- Jonathan Créchet
 
 
 # Author notes (optional)
