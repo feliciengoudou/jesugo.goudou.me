@@ -6,7 +6,7 @@ title: 'Life Cycle Worker Flows in a Dual Labor Market'
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Felicien Goudou
-- Jonathan Créchet
+- <span>  <a href=" https://sites.google.com/view/jonathancrechet" target="_blank" rel="noopener"> Jonathan Créchet </a>  </span>
 
 
 # Author notes (optional)
