@@ -95,7 +95,9 @@ Welcome to my webpage!
 I am a Ph.D.  candidate in Economics at [Université de Montreal](https://sceco.umontreal.ca/accueil/). My research interest is in macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
 \
 \
-I am on the 2022/2023 job market and will be available for interviews at the American Economic Association (AEA/ASSA), the European Job Market (EJME), and the Canadian Economics Employment Exchange (CEEE) annual meetings.
+I will join the Department of Economics at **Wayne State University** as an Assistant Professor in August 2023.
 \
 \
-My CV is available {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}here{{< /staticref >}}.
+You can find my CV {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}here{{< /staticref >}}.
+\
+Email: [felicien.goudou[at]umontreal.ca](mailto:felicien.goudou@umontreal.ca)
