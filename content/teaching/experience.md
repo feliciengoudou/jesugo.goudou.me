@@ -28,7 +28,7 @@ experience:
     #company_logo: icon
     location: DT, Michigan, US
     date_start: '2023-09-01'
-    date_end: 'present'
+    #date_end: 'present'
     description: Intermediate Macroeconomics- ECO 5050 (Fall 2023)
 
   - title: INSTRUCTOR
