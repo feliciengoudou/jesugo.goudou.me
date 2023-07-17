@@ -32,7 +32,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics
+    - course: Ph.D. in Economics
       institution: Université de Montreal
       year: 2023
     - course: M.Sc. in Statistics and Economics
