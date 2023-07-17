@@ -23,14 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: INSTRUCTOR
-    company: Université de Montreal
+    company: Wayne State University
     company_url: ''
     #company_logo: icon
-    location: Montreal
+    location: Michigan
     date_start: '2018-01-01'
     date_end: '2021-12-31'
     description: Quantitative Economics II (Undergraduate. Winter 18, 20 & 21 ; Fall 19 & 20)
-     
+
+  - title: INSTRUCTOR
     company: Université de Montreal
     company_url: ''
     #company_logo: icon
