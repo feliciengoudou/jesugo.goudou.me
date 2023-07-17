@@ -34,10 +34,10 @@ education:
   courses:
     - course: PhD in Economics
       institution: Université de Montreal
-      year: 2023 (Expected)
+      year: , 2023
     - course: M.Sc. in Statistics and Economics
-      institution:  National School of Statistics and Applied Economics
-      year: ENSEA-Abidjan, 2015
+      institution:  National School of Statistics and Applied Economics, ENSEA-Abidjan
+      year: , 2015
 
 
 
