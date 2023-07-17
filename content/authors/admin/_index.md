@@ -92,7 +92,7 @@ highlight_name: true
 Welcome to my webpage!
 \
 \
-I am a Ph.D.  candidate in Economics at [Université de Montreal](https://sceco.umontreal.ca/accueil/). My research interest is in macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
+I received my Ph.D. in Economics at [Université de Montreal](https://sceco.umontreal.ca/accueil/) in 2023. My research interest is in macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
 \
 \
 I will join the Department of Economics at **Wayne State University** as an Assistant Professor in August 2023.
