@@ -26,10 +26,10 @@ experience:
     company: Wayne State University
     company_url: ''
     #company_logo: icon
-    location: Michigan
-    date_start: '2018-01-01'
-    date_end: '2021-12-31'
-    description: Quantitative Economics II (Undergraduate. Winter 18, 20 & 21 ; Fall 19 & 20)
+    location: DT, Michigan, US
+    date_start: ''
+    date_end: ''
+    description: Intermediate Macroeconomics- ECO 5050 (Fall 2023)
 
   - title: INSTRUCTOR
     company: Université de Montreal
