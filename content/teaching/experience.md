@@ -30,7 +30,7 @@ experience:
     date_start: '2023-09-01'
     #date_end: 'present'
     description: Intermediate Macroeconomics- ECO 5050 (Fall 23, Winter 24)
-    Macroeconomic Theory I (PhD)- ECO 7050 (Winter 24)
+    
 
   - title: INSTRUCTOR
     company: Université de Montreal
