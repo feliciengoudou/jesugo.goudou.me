@@ -100,4 +100,4 @@ I will join the Department of Economics at **Wayne State University** as an Assi
 \
 You can find my CV {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}here{{< /staticref >}}.
 \
-Email: [felicien.goudou[at]umontreal.ca](mailto:felicien.goudou@umontreal.ca)
+Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
