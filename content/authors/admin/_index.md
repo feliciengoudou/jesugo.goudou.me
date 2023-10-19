@@ -12,10 +12,10 @@ role:
 organizations:
   #- name: "Ph.D. candidate in Economics"
   #- name: "---"
-  - name: Université de Montreal
-    url:  https://www.umontreal.ca/en/
+  - name: Wayne State University
+    url:  https://clas.wayne.edu
   - name: Department of Economics
-    url:  https://sceco.umontreal.ca/accueil/
+    url:  https://clasprofiles.wayne.edu/profile/hq3677
   #- name: 3150 Jean-Brillant, QC, H3T 1N8
   #- name: felicien.goudou@umontreal.ca
 
