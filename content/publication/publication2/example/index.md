@@ -15,7 +15,7 @@ authors:
   #- 'Equal contribution'
 
 
-date: '2023-10-01T00:00:00Z'
+date: '2023-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication:  New draft coming soon
 #publication_short: In *ICW*
 
-abstract: This paper studies the life cycle of worker flows in a dual labor market, divided between open-ended, permanent jobs with firing restrictions and fixed-term, temporary jobs. Using French Employment Survey data, we estimate age profiles of transition probabilities between unemployment, permanent and temporary employment conditional on education levels. Transition probabilities from unemployment to temporary and permanent employment have a declining profile over the life cycle for high-education workers but are flat for low-educated workers. The same holds for the transition probability from temporary to permanent employment (TP). We show that a search-and-matching model with heterogeneous workers and jobs, information frictions with Bayesian learning about worker ability, and match-specific unemployment risk can account for these facts. Calibration to French data indicates that Bayesian learning is more prevalent in explaining the life-cycle patterns of worker flows for highly educated individuals. In contrast, unemployment-risk match heterogeneity is the key driver of the variation for the low-education group. These group-specific mechanisms imply that firing costs account for most of the large unemployment differential between low and high-education young workers. 
+abstract: This paper studies the life cycle of worker flows in a dual labor market, divided between open-ended, permanent jobs with firing restrictions and fixed-term, temporary jobs. Using French Employment Survey data, we estimate age profiles of transition probabilities between unemployment, permanent and temporary employment conditional on education levels. Transition probabilities from unemployment to temporary and permanent employment have a declining profile over the life cycle for high-education workers but are flat for low-educated workers. The same holds for the transition probability from temporary to permanent employment (TP). We show that a search-and-matching model with heterogeneous workers and jobs, information frictions with Bayesian learning about worker ability, and match-specific unemployment risk can account for these facts. Calibration to French data indicates that Bayesian learning is more prevalent in explaining the life-cycle patterns of worker flows for highly educated individuals. In contrast, unemployment-risk match heterogeneity is the key driver of the variation for the low-education group. These group-specific mechanisms imply that firing costs account for most of the large unemployment differential between low and high-education young workers.
 
 # Summary. An optional shortened abstract.
 summary:
