@@ -70,7 +70,6 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 #projects:
   #- example
-Co-authored with [John Doe](#) and <a href="http://www.example.com">Jane Smith</a>
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
