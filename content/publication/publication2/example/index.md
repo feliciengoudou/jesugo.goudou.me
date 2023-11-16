@@ -4,7 +4,7 @@ title: 'Life Cycle Worker Flows in a Dual Labor Market'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: ["Felicien Goudou", { name = "Jonathan Créchet", url = "http://www.example.com" }]
+authors: ["Felicien Goudou", "Jonathan Créchet"]
 #authors:
 #- Felicien Goudou
 #- Jonathan Créchet
@@ -70,6 +70,7 @@ url_video: ''
 #   Otherwise, set `projects: []`.
 #projects:
   #- example
+Co-authored with [John Doe](#) and <a href="http://www.example.com">Jane Smith</a>
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -82,7 +83,7 @@ slides: ""
 <!-- {{% callout note %}}
 <!-- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}} -->
-
+Co-authored with [John Doe](#) and <a href="http://www.example.com">Jane Smith</a>
 <!-- {{% callout note %}}
 <!-- Create your slides in Markdown - click the _Slides_ button to check out the example. -->
 <!-- {{% /callout %}}  -->
