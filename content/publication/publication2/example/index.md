@@ -82,7 +82,7 @@ slides: ""
 <!-- {{% callout note %}}
 <!-- Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}} -->
-Co-authored with [John Doe](#) and <a href="http://www.example.com">Jane Smith</a>
+Authors: [Felicien Goudou](#) and <a href="https://sites.google.com/view/jonathancrechet">Jonathan Créchet</a>
 <!-- {{% callout note %}}
 <!-- Create your slides in Markdown - click the _Slides_ button to check out the example. -->
 <!-- {{% /callout %}}  -->
