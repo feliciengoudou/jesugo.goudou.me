@@ -25,7 +25,7 @@ publishDate: '2017-01-01T00:00:00Z'
 #publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Draft coming soon
+publication: [Draft available upon request]
 #publication_short: In *ICW*
 
 abstract: This paper examines the macroeconomic effects of climate policies in the presence of financial frictions. Climate policies analyzed are the carbon tax and green financing, a policy that aims to reallocate capital toward environmentally friendly firms. When firms are financially constrained, the imposition of carbon tax helps reallocate capital from low-productive firms to high-productive firms by increasing the production cost. High-productive firms produce more but also engage in emissions abatement to reduce the carbon tax burden, incentivized by green financing. As a result, emissions decrease, but aggregate productivity and output increase, breaking the positive emissions-output relationship. However, the paper shows that the outlined positive effect of the carbon tax depends on the aggregate response of green financing to firm environmental performance.
