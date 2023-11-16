@@ -4,7 +4,7 @@ title: 'Life Cycle Worker Flows in a Dual Labor Market'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: ["Felicien Goudou", "[Jonathan Créchet](http://www.example.com)"]
+authors: ["Felicien Goudou", { name = "Jonathan Créchet", url = "http://www.example.com" }]
 #authors:
 #- Felicien Goudou
 #- Jonathan Créchet
