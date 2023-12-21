@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/JMP_Felicien_G.pdf'
+url_pdf: 'uploads/NCA_FG.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
