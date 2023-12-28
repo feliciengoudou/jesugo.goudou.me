@@ -100,7 +100,7 @@ I am an Assistant Professor of Economics  at Wayne State University. My research
 \
 \
 \
-**Contact Information**
+**Contact Information**:
 \
 Wayne State University
 \
