@@ -92,12 +92,9 @@ highlight_name: true
 Welcome to my webpage!
 \
 \
-I received my Ph.D. in Economics at [Université de Montreal](https://sceco.umontreal.ca/accueil/) in 2023. My research interest is in macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
+I am an Assistant Professor of Economics  at Wayne State University. My research interest is in macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
 \
 \
-I will join the Department of Economics at **Wayne State University** as an Assistant Professor in August 2023.
-\
-\
-You can find my CV {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}here{{< /staticref >}}.
+Curriculum Vitae: {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}CV{{< /staticref >}}.
 \
 Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
