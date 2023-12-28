@@ -107,6 +107,7 @@ Wayne State University
 Department of economics
 \
 2121 Faculty Administration Building
+\
 656 W. Kirby St, DT, MI 48202
 \
 Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
