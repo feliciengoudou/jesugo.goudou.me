@@ -19,7 +19,7 @@ organizations:
   #- name: 3150 Jean-Brillant, QC, H3T 1N8
   #- name: felicien.goudou@umontreal.ca
 
-Short bio (displayed in user profile at end of posts)
+#Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
@@ -99,3 +99,6 @@ I am an Assistant Professor of Economics  at Wayne State University. My research
 \
 \
 Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
+\
+\
+**Contact Information**
