@@ -19,7 +19,7 @@ organizations:
   #- name: 3150 Jean-Brillant, QC, H3T 1N8
   #- name: felicien.goudou@umontreal.ca
 
-# Short bio (displayed in user profile at end of posts)
+Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
@@ -30,14 +30,14 @@ organizations:
   #- Climate economics
 
 # Education to show in About widget
-contact:
-  courses:
-    - course: Ph.D. in Economics
-      institution: Université de Montreal
-      year: 2023
-    - course: M.Sc. in Statistics and Economics
-      institution:  National School of Statistics and Applied Economics, ENSEA-Abidjan
-      year: 2015
+#education:
+  #courses:
+    #- course: Ph.D. in Economics
+      #institution: Université de Montreal
+      #year: 2023
+    #- course: M.Sc. in Statistics and Economics
+      #institution:  National School of Statistics and Applied Economics, ENSEA-Abidjan
+      #year: 2015
 
 
 
