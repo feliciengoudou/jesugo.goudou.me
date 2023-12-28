@@ -30,7 +30,7 @@ organizations:
   #- Climate economics
 
 # Education to show in About widget
-education:
+contact:
   courses:
     - course: Ph.D. in Economics
       institution: Université de Montreal
