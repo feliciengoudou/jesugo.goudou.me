@@ -98,6 +98,8 @@ I am an Assistant Professor of Economics  at Wayne State University. My research
 **Curriculum Vitae** : {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}} CV {{< /staticref >}}
 \
 \
+\
+\
 **Contact Information**
 \
 Wayne State University
