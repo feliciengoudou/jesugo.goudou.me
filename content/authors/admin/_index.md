@@ -9,13 +9,13 @@ superuser: true
 role:
 
 # Organizations/Affiliations to show in About widget
-organizations:
+#organizations:
   #- name: "Ph.D. candidate in Economics"
   #- name: "---"
-  - name: Wayne State University
-    url:  https://clas.wayne.edu
-  - name: Department of Economics
-    url:  https://clasprofiles.wayne.edu/profile/hq3677
+  #- name: Wayne State University
+    #url:  https://clas.wayne.edu
+  #- name: Department of Economics
+    #url:  https://clasprofiles.wayne.edu/profile/hq3677
   #- name: 3150 Jean-Brillant, QC, H3T 1N8
   #- name: felicien.goudou@umontreal.ca
 
@@ -98,7 +98,13 @@ I am an Assistant Professor of Economics  at Wayne State University. My research
 **Curriculum Vitae** : {{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}} CV {{< /staticref >}}
 \
 \
-Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
-\
-\
 **Contact Information**
+\
+Wayne State University
+\
+Department of economics
+\
+2121 Faculty Administration Building
+656 W. Kirby St, DT, MI 48202
+\
+Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
