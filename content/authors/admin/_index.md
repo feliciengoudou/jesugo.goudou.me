@@ -95,7 +95,7 @@ Welcome to my webpage!
 I am an Assistant Professor of Economics  at Wayne State University. My research interest is in macroeconomics with a focus on labor economics, firm heterogeneity and misallocation of factors.
 \
 \
-**Curriculum Vitae**{{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}CV{{< /staticref >}}.
+**Curriculum Vitae:**{{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}} CV {{< /staticref >}}
 \
 \
 Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
