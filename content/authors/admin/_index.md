@@ -97,4 +97,5 @@ I am an Assistant Professor of Economics  at Wayne State University. My research
 \
 **Curriculum Vitae**{{< staticref "uploads/CV_Felicien_G.pdf" "newtab" >}}CV{{< /staticref >}}.
 \
+\
 Email: [felicien.goudou[at]wayne.edu](mailto:felicien.goudou@wayne.edu)
