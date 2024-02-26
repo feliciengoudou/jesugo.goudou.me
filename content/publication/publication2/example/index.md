@@ -1,5 +1,5 @@
 ---
-title: 'Life Cycle Worker Flows in a Dual Labor Market'
+title: 'Screening, churning, and worker flows in a dual labor market'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ authors: ["Felicien Goudou", "Jonathan Créchet"]
   #- 'Equal contribution'
 
 
-date: '2023-11-01T00:00:00Z'
+date: '2023-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
