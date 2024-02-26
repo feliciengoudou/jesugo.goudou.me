@@ -33,8 +33,7 @@ publication:  New draft coming soon
 #publication_short: In *ICW*
 
 abstract: This paper studies the life-cycle dynamics of worker flows in a dual labor market, divided between open-ended, permanent jobs with firing restrictions and fixed-term, temporary jobs. Using French Employment Survey data, we estimate age profiles of transition probabilities between unemployment, permanent and temporary employment by education levels. Transition probabilities into permanent employment have a declining age profile for high-education workers but are flat for low-education workers. A search-and-matching model with information frictions, Bayesian learning about worker ability, and match heterogeneity in employment-separation risk account for the transition age profiles. Worker flows are shaped by two distinct channels, “screening” and “churning”. Calibration to French data indicates that Bayesian learning (screening) is more prevalent in explaining patterns of worker flows for highly educated individuals. In contrast, separation-risk match heterogeneity (churning) is the key driver for the low-education group. These group-specific mechanisms imply that firing costs account for most of the large unemployment difference between low and high-education young workers in France.
-\\
-<h4 style = "color:black;"> Something, <u>something</u> </h4>
+
 
 # Summary. An optional shortened abstract.
 summary:
