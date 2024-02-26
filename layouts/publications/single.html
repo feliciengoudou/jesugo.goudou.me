@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="publication">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Abstract }}</p>
+    <div class="additional-text">
+        {{ .Params.additional_text | markdownify }}
+    </div>
+</article>
+{{ end }}
