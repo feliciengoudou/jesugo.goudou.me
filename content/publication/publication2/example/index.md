@@ -38,7 +38,7 @@ abstract: This paper studies the life-cycle dynamics of worker flows in a dual l
 
 
 # Summary. An optional shortened abstract.
-summary:
+summary: cbjkbkjbncbbcjbjb
 
 tags: []
 
