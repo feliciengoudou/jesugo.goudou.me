@@ -40,6 +40,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation
+  filter_default: '*'
+  date_format: 'January 2, 2006'  # Optional: Customize the date format
 ---
 
 <!-- {{% callout note %}}
