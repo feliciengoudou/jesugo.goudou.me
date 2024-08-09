@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: 'Working Paper'
+    publication_type: ''
     author: ''
     exclude_featured: false
     exclude_future: false
