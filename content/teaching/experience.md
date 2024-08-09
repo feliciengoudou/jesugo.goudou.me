@@ -33,6 +33,7 @@ experience:
 
           * Intermediate Macroeconomics- ECO 5050 (Fall 23, Winter 24)
           * Macroeconomic Theory I (PhD)- ECO 7050 (Winter 24)
+          * Principles of Macroeconomics- ECO 2020 (Fall 24)
 
 
   - title: INSTRUCTOR
