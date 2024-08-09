@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 1
+  view: 3
   columns: '2'
 
   # View.
@@ -41,7 +41,7 @@ design:
   #   3 = Card
   #   4 = Citation
   filter_default: '*'
-  date_format: 'January 2, 2006'  # Optional: Customize the date format
+  date_format: 'January, 2006'  # Optional: Customize the date format
 ---
 
 <!-- {{% callout note %}}
