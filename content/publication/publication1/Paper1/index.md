@@ -34,7 +34,7 @@ abstract: This paper studies the labor market effects of Non-Compete Agreements 
 
 
 # Summary. An optional shortened abstract.
-summary: 'Featured in : [**the FTC Noncompete Final Rule report**](https://www.ftc.gov/system/files/ftc_gov/pdf/noncompete-rule.pdf)'
+summary: 'Featured in : [_the FTC Noncompete Final Rule report_](https://www.ftc.gov/system/files/ftc_gov/pdf/noncompete-rule.pdf)'
 
 tags: []
 
