@@ -1,5 +1,5 @@
 ---
-title: 'The Employment Effects of Non-compete Contracts: Job Retention versus Job Creation'
+title: 'The Employment Effects of Noncompete Contracts: Job Retention versus Job Creation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
