@@ -31,9 +31,11 @@ experience:
     #date_end: 'present'
     description: |2-
 
-          * Intermediate Macroeconomics- ECO 5050 (Fall 23, Winter 24)
-          * Macroeconomic Theory I (PhD)- ECO 7050 (Winter 24)
-          * Principles of Macroeconomics- ECO 2020 (Fall 24)
+          * Intermediate Macroeconomics- ECO 5050 (Fall 23, Winter 24, 25)
+          * Macroeconomic Theory I (PhD)- ECO 7050 (Winter 24, Fall 25)
+          * Macroeconomic Theory II (PhD)- ECO 7060 (Winter 26)
+          * Advanced Labor Economics (PhD, 2nd year)- ECO 7410 (Fall 25)
+          * Principles of Macroeconomics- ECO 2020 (Fall 24, Winter 25, 26)
 
 
   - title: INSTRUCTOR
