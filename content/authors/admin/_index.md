@@ -1,9 +1,14 @@
 ---
 # Display name
-title:
+title: Felicien Goudou
 
 # Is this the primary user of the site?
 superuser: true
+
+# Override the cascade render: never from authors/_index.md
+_build:
+  render: always
+  list: always
 
 # Role/position/tagline
 role:
