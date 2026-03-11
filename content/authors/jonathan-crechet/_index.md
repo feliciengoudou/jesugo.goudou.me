@@ -14,3 +14,8 @@ social:
     icon_pack: fas
     link: https://sites.google.com/view/jonathancrechet
 ---
+
+<script>
+  window.open('https://sites.google.com/view/jonathancrechet', '_blank');
+  history.back();
+</script>
